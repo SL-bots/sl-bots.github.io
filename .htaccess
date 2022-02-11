@@ -1,0 +1,5 @@
+RewriteEngine On
+
+RewriteRule ^team$ team.html [NC,L]
+RewriteRule ^apply$ apply.html [NC,L]
+RewriteRule ^bots$ bots.html [NC,L]
